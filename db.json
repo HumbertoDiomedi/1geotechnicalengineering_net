@@ -16,7 +16,7 @@
         "correo": "cotizacion@mecanicadesuelos.org",
         "telefono": "569 98452459",
         "ciudad": "Peñalolén",
-        "backlink": ""
+        "backlink":
     },
     {
         "id": "8estabilidaddetaludes",
@@ -35,7 +35,7 @@
         "correo": "cotizacion@mecanicadesuelos.org",
         "telefono": "569 98452459",
         "ciudad": "Limache",
-        "backlink": ""
+        "backlink":
     },
     {
         "id": "7estabilidaddetaludes",
@@ -474,4 +474,5 @@
         "ciudad": "Alto Hospicio",
         "backlink": ""
     }
+    
 ]
